@@ -39,10 +39,16 @@ public class Letters {
 		System.out.println("		Nicholas Joerin");
 	}
 	public static void Letter3() {
+
 		System.out.println("Dear Noelle,");
 		SameBody();
 		System.out.println();
 		System.out.println("Right now, I'm talking with a kid next to me in AP CS. His name is Ethan.");
-		System.out.println("He is a Senior this year. We were taling");
+		System.out.println("He is a Senior this year. We were taling about what we are going to do after");
+		System.out.println("graduation. He says that he is going to go live in his parent's non existant");
+		System.out.println("basement. It was a good conversation. We also spent too long figuring out what");
+		System.out.println("to write these letters about.");
+		System.out.println("    Sincerely,");
+		System.out.println("		Nicholas Joerin");
 }
 }
