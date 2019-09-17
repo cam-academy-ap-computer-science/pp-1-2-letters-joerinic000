@@ -4,7 +4,9 @@ public class Letters {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Letter1();
+		Space();
 		Letter2();
+		Space();
 		Letter3();
 	}
 	public static void SameBody() {
@@ -51,4 +53,7 @@ public class Letters {
 		System.out.println("    Sincerely,");
 		System.out.println("		Nicholas Joerin");
 }
+	public static void Space() {
+		System.out.println();
+	}
 }
